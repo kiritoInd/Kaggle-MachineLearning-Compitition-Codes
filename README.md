@@ -1,2 +1,2 @@
-# Kagel-MachineLearning-Compitition-Codes
+# Kaggle-MachineLearning-Compitition-Codes
 #1 titanic machine learning from disaster managment
